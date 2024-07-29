@@ -1,16 +1,7 @@
-# poke_app
+# pokemon_app
 
-A new Flutter project.
+Show list of Pokemon images and show information about them, Using (Hero widget for UI 
+animation, API integration with Dio package, MVVM Architecture , Cubit State Management )
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://github.com/user-attachments/assets/bdb683a0-7f0e-44ed-932d-db97c5ccc90a
